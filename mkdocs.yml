@@ -1,6 +1,6 @@
 site_name: My Docs
 site_description: My documentation powered by MkDocs + Material on GitHub Pages
-site_url: https://Jarvis03.github.io/blog_page/
+site_url: https://Jarvis03.github.io/blog_page
 
 nav:
   - Home: index.md
@@ -19,7 +19,7 @@ theme:
     - search.suggest
     - search.share
 
-repo_url: https://github.com/Jarvis03/blog_page/
+repo_url: https://github.com/Jarvis03/blog_page
 repo_name: blog_page
 edit_uri: ""
 
